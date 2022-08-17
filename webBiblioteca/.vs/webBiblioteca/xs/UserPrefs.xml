@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{4735BD10-8B68-4A6C-920B-BFCA375B0804}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="webBiblioteca/Devolucion.aspx.cs">
+    <Files>
+      <File FileName="webBiblioteca/Devolucion.aspx.cs" Line="47" Column="68" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="webBiblioteca" expanded="True">
+            <Node name="webBiblioteca" expanded="True">
+              <Node name="Catalogo.aspx" expanded="True" />
+              <Node name="Devolucion.aspx" expanded="True">
+                <Node name="Devolucion.aspx.cs" selected="True" />
+              </Node>
+              <Node name="Index.aspx" expanded="True" />
+              <Node name="Inicio.aspx" expanded="True" />
+              <Node name="Prestamo.aspx" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.webBiblioteca PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
